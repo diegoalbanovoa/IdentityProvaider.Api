@@ -1,0 +1,12 @@
+C:\Users\diego\source\repos\IdentityProvaider.Api\IdentityProvaider.Domain\bin\Debug\net6.0\IdentityProvaider.Domain.deps.json
+C:\Users\diego\source\repos\IdentityProvaider.Api\IdentityProvaider.Domain\bin\Debug\net6.0\IdentityProvaider.Domain.dll
+C:\Users\diego\source\repos\IdentityProvaider.Api\IdentityProvaider.Domain\bin\Debug\net6.0\IdentityProvaider.Domain.pdb
+C:\Users\diego\source\repos\IdentityProvaider.Api\IdentityProvaider.Domain\obj\Debug\net6.0\IdentityProvaider.Domain.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\IdentityProvaider.Api\IdentityProvaider.Domain\obj\Debug\net6.0\IdentityProvaider.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\IdentityProvaider.Api\IdentityProvaider.Domain\obj\Debug\net6.0\IdentityProvaider.Domain.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\IdentityProvaider.Api\IdentityProvaider.Domain\obj\Debug\net6.0\IdentityProvaider.Domain.AssemblyInfo.cs
+C:\Users\diego\source\repos\IdentityProvaider.Api\IdentityProvaider.Domain\obj\Debug\net6.0\IdentityProvaider.Domain.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\IdentityProvaider.Api\IdentityProvaider.Domain\obj\Debug\net6.0\IdentityProvaider.Domain.dll
+C:\Users\diego\source\repos\IdentityProvaider.Api\IdentityProvaider.Domain\obj\Debug\net6.0\refint\IdentityProvaider.Domain.dll
+C:\Users\diego\source\repos\IdentityProvaider.Api\IdentityProvaider.Domain\obj\Debug\net6.0\IdentityProvaider.Domain.pdb
+C:\Users\diego\source\repos\IdentityProvaider.Api\IdentityProvaider.Domain\obj\Debug\net6.0\ref\IdentityProvaider.Domain.dll

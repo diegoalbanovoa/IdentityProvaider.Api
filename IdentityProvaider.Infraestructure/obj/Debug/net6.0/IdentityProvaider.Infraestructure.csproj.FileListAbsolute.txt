@@ -1,0 +1,15 @@
+C:\Users\diego\source\repos\IdentityProvaider.Api\IdentityProvaider.Infraestructure\bin\Debug\net6.0\IdentityProvaider.Infraestructure.deps.json
+C:\Users\diego\source\repos\IdentityProvaider.Api\IdentityProvaider.Infraestructure\bin\Debug\net6.0\IdentityProvaider.Infraestructure.dll
+C:\Users\diego\source\repos\IdentityProvaider.Api\IdentityProvaider.Infraestructure\bin\Debug\net6.0\IdentityProvaider.Infraestructure.pdb
+C:\Users\diego\source\repos\IdentityProvaider.Api\IdentityProvaider.Infraestructure\bin\Debug\net6.0\IdentityProvaider.Domain.dll
+C:\Users\diego\source\repos\IdentityProvaider.Api\IdentityProvaider.Infraestructure\bin\Debug\net6.0\IdentityProvaider.Domain.pdb
+C:\Users\diego\source\repos\IdentityProvaider.Api\IdentityProvaider.Infraestructure\obj\Debug\net6.0\IdentityProvaider.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\IdentityProvaider.Api\IdentityProvaider.Infraestructure\obj\Debug\net6.0\IdentityProvaider.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\IdentityProvaider.Api\IdentityProvaider.Infraestructure\obj\Debug\net6.0\IdentityProvaider.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\IdentityProvaider.Api\IdentityProvaider.Infraestructure\obj\Debug\net6.0\IdentityProvaider.Infraestructure.AssemblyInfo.cs
+C:\Users\diego\source\repos\IdentityProvaider.Api\IdentityProvaider.Infraestructure\obj\Debug\net6.0\IdentityProvaider.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\IdentityProvaider.Api\IdentityProvaider.Infraestructure\obj\Debug\net6.0\IdentityProvaider.Infraestructure.csproj.CopyComplete
+C:\Users\diego\source\repos\IdentityProvaider.Api\IdentityProvaider.Infraestructure\obj\Debug\net6.0\IdentityProvaider.Infraestructure.dll
+C:\Users\diego\source\repos\IdentityProvaider.Api\IdentityProvaider.Infraestructure\obj\Debug\net6.0\refint\IdentityProvaider.Infraestructure.dll
+C:\Users\diego\source\repos\IdentityProvaider.Api\IdentityProvaider.Infraestructure\obj\Debug\net6.0\IdentityProvaider.Infraestructure.pdb
+C:\Users\diego\source\repos\IdentityProvaider.Api\IdentityProvaider.Infraestructure\obj\Debug\net6.0\ref\IdentityProvaider.Infraestructure.dll
