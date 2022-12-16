@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "x6YBqJbuJuiaEvobaFi9sL3/cysynGt12NLPqU++zm8=",
+  "Source": "IdentityProvaider.API",
+  "BasePath": "_content/IdentityProvaider.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
